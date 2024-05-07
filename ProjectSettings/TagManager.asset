@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Wall
+  - Water
+  - UI
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Space
+    uniqueID: 284285489
+    locked: 0
+  - name: BackGround
+    uniqueID: 1076530835
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Wall
+    uniqueID: 1229078551
+    locked: 0
+  - name: Exit
+    uniqueID: 1362973089
+    locked: 0
+  - name: Enemy
+    uniqueID: 2637606067
+    locked: 0
+  - name: Player
+    uniqueID: 3207357181
+    locked: 0
+  - name: Item
+    uniqueID: 957642817
+    locked: 0
+  - name: SPaceShip
+    uniqueID: 1891985393
+    locked: 0

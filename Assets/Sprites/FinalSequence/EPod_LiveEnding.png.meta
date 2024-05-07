@@ -1,0 +1,1416 @@
+fileFormatVersion: 2
+guid: ccf6fb88df803a143b55308c4b5da6c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2476498723168125403
+    second: EPod_LiveEnding_0
+  - first:
+      213: 2575162092309229012
+    second: EPod_LiveEnding_1
+  - first:
+      213: 2527133086051947593
+    second: EPod_LiveEnding_2
+  - first:
+      213: -1283275266192111635
+    second: EPod_LiveEnding_3
+  - first:
+      213: 1702981922815901454
+    second: EPod_LiveEnding_4
+  - first:
+      213: -5174557574087932737
+    second: EPod_LiveEnding_5
+  - first:
+      213: -3344215257028550283
+    second: EPod_LiveEnding_6
+  - first:
+      213: 4582124038207792326
+    second: EPod_LiveEnding_7
+  - first:
+      213: -3079205613164756034
+    second: EPod_LiveEnding_8
+  - first:
+      213: 3388412325786860533
+    second: EPod_LiveEnding_9
+  - first:
+      213: 7639699705376158781
+    second: EPod_LiveEnding_10
+  - first:
+      213: -6589422464667025232
+    second: EPod_LiveEnding_11
+  - first:
+      213: 6935680713059160693
+    second: EPod_LiveEnding_12
+  - first:
+      213: 2151488902701042220
+    second: EPod_LiveEnding_13
+  - first:
+      213: -4893501287929278702
+    second: EPod_LiveEnding_14
+  - first:
+      213: -1393654477759337240
+    second: EPod_LiveEnding_15
+  - first:
+      213: -1511488866542491403
+    second: EPod_LiveEnding_16
+  - first:
+      213: 1236360458653546291
+    second: EPod_LiveEnding_17
+  - first:
+      213: 3039461861769522563
+    second: EPod_LiveEnding_18
+  - first:
+      213: -665815081633400747
+    second: EPod_LiveEnding_19
+  - first:
+      213: 638831226901010701
+    second: EPod_LiveEnding_20
+  - first:
+      213: -5359440428903057536
+    second: EPod_LiveEnding_21
+  - first:
+      213: 7311506426190368701
+    second: EPod_LiveEnding_22
+  - first:
+      213: 6119583595746694101
+    second: EPod_LiveEnding_23
+  - first:
+      213: 4577100814343118185
+    second: EPod_LiveEnding_24
+  - first:
+      213: 5175434377167180611
+    second: EPod_LiveEnding_25
+  - first:
+      213: 8780450627439798090
+    second: EPod_LiveEnding_26
+  - first:
+      213: -1507714906121744132
+    second: EPod_LiveEnding_27
+  - first:
+      213: 5566922490882868204
+    second: EPod_LiveEnding_28
+  - first:
+      213: 2909161902241336887
+    second: EPod_LiveEnding_29
+  - first:
+      213: -5652745826418206254
+    second: EPod_LiveEnding_30
+  - first:
+      213: -3277634057337046656
+    second: EPod_LiveEnding_31
+  - first:
+      213: -1103194740096348032
+    second: EPod_LiveEnding_32
+  - first:
+      213: -7849080564809488656
+    second: EPod_LiveEnding_33
+  - first:
+      213: 2542002370517976125
+    second: EPod_LiveEnding_34
+  - first:
+      213: -8461289614148189206
+    second: EPod_LiveEnding_35
+  - first:
+      213: -2344969940278363366
+    second: EPod_LiveEnding_36
+  - first:
+      213: 5243806524528335422
+    second: EPod_LiveEnding_37
+  - first:
+      213: 2404525600554728084
+    second: EPod_LiveEnding_38
+  - first:
+      213: 9170253547793587316
+    second: EPod_LiveEnding_39
+  - first:
+      213: 4229484082262950778
+    second: EPod_LiveEnding_40
+  - first:
+      213: 7831230089525686416
+    second: EPod_LiveEnding_41
+  - first:
+      213: 4097217090936445772
+    second: EPod_LiveEnding_42
+  - first:
+      213: -568142417677595004
+    second: EPod_LiveEnding_43
+  - first:
+      213: -2299017410010841199
+    second: EPod_LiveEnding_44
+  - first:
+      213: -1996487473012668624
+    second: EPod_LiveEnding_45
+  - first:
+      213: 6131327452958883931
+    second: EPod_LiveEnding_46
+  - first:
+      213: 537022171339689294
+    second: EPod_LiveEnding_47
+  - first:
+      213: 6876083068107561897
+    second: EPod_LiveEnding_48
+  - first:
+      213: -4635174694957233612
+    second: EPod_LiveEnding_49
+  - first:
+      213: -448882297996627168
+    second: EPod_LiveEnding_50
+  - first:
+      213: 1935553406033095031
+    second: EPod_LiveEnding_51
+  - first:
+      213: 8089888803521234340
+    second: EPod_LiveEnding_52
+  - first:
+      213: 4051166349790788694
+    second: EPod_LiveEnding_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EPod_LiveEnding_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8050
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52efad64885b1add0800000000000000
+      internalID: -2476498723168125403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_1
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 8050
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dda4277740dcb320800000000000000
+      internalID: 2575162092309229012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_2
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 8050
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9445346072e221320800000000000000
+      internalID: 2527133086051947593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_3
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 8050
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de70399c1f3e03ee0800000000000000
+      internalID: -1283275266192111635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_4
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 8050
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f7a58390532a710800000000000000
+      internalID: 1702981922815901454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_5
+      rect:
+        serializedVersion: 2
+        x: 5750
+        y: 8050
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb48ea66d474038b0800000000000000
+      internalID: -5174557574087932737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_6
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 8050
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5712f5031f5f691d0800000000000000
+      internalID: -3344215257028550283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6900
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4672e1989f69f30800000000000000
+      internalID: 4582124038207792326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_8
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 6900
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb30de42fc67445d0800000000000000
+      internalID: -3079205613164756034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_9
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 6900
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbb417ce0f060f20800000000000000
+      internalID: 3388412325786860533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_10
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 6900
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d343a99b76aa50a60800000000000000
+      internalID: 7639699705376158781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_11
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 6900
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b00b8e3e2bad84a0800000000000000
+      internalID: -6589422464667025232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_12
+      rect:
+        serializedVersion: 2
+        x: 5750
+        y: 6900
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5725b699cdc704060800000000000000
+      internalID: 6935680713059160693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_13
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 6900
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ac0b702cf9bdd10800000000000000
+      internalID: 2151488902701042220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5750
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f0f09618ac61cb0800000000000000
+      internalID: -4893501287929278702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_15
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 5750
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eca589e2aeb8ace0800000000000000
+      internalID: -1393654477759337240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_16
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 5750
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8e6c352ec160be0800000000000000
+      internalID: -1511488866542491403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_17
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 5750
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3373260694f682110800000000000000
+      internalID: 1236360458653546291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_18
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 5750
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dae13a5765e2a20800000000000000
+      internalID: 3039461861769522563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_19
+      rect:
+        serializedVersion: 2
+        x: 5750
+        y: 5750
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558b42df5bc82c6f0800000000000000
+      internalID: -665815081633400747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_20
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 5750
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d099cdebd959dd800800000000000000
+      internalID: 638831226901010701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4600
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087bd5053517f95b0800000000000000
+      internalID: -5359440428903057536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_22
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 4600
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf001a4b50b77560800000000000000
+      internalID: 7311506426190368701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_23
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 4600
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d31acd7bd02de450800000000000000
+      internalID: 6119583595746694101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_24
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 4600
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d921ca0f0258f30800000000000000
+      internalID: 4577100814343118185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_25
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 4600
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34315693526d2d740800000000000000
+      internalID: 5175434377167180611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_26
+      rect:
+        serializedVersion: 2
+        x: 5750
+        y: 4600
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47a768235d6ad970800000000000000
+      internalID: 8780450627439798090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_27
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 4600
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf05d06f745831be0800000000000000
+      internalID: -1507714906121744132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3450
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3c439b28ea14d40800000000000000
+      internalID: 5566922490882868204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_29
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 3450
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ec131365b6f5820800000000000000
+      internalID: 2909161902241336887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_30
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 3450
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d955c2de996d81b0800000000000000
+      internalID: -5652745826418206254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_31
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 3450
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089f3b4c0318382d0800000000000000
+      internalID: -3277634057337046656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_32
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 3450
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0805a769a3aa0b0f0800000000000000
+      internalID: -1103194740096348032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_33
+      rect:
+        serializedVersion: 2
+        x: 5750
+        y: 3450
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6ab1100d6721390800000000000000
+      internalID: -7849080564809488656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_34
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 3450
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34cce810b1074320800000000000000
+      internalID: 2542002370517976125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2300
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3cefefce5739a80800000000000000
+      internalID: -8461289614148189206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_36
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 2300
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b3db4734ef47fd0800000000000000
+      internalID: -2344969940278363366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_37
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 2300
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a136d404eb5c840800000000000000
+      internalID: 5243806524528335422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_38
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 2300
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ab5624b479e5120800000000000000
+      internalID: 2404525600554728084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_39
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 2300
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c90800409434f70800000000000000
+      internalID: 9170253547793587316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_40
+      rect:
+        serializedVersion: 2
+        x: 5750
+        y: 2300
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73c3723d5522ba30800000000000000
+      internalID: 4229484082262950778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_41
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 2300
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0907788564e1eac60800000000000000
+      internalID: 7831230089525686416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1150
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 466, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b1de87c3d3cd830800000000000000
+      internalID: 4097217090936445772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_43
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 1150
+        width: 709
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ece743b7d8d18f0800000000000000
+      internalID: -568142417677595004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_44
+      rect:
+        serializedVersion: 2
+        x: 2644
+        y: 1150
+        width: 806
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f7dd7a8df3810e0800000000000000
+      internalID: -2299017410010841199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_45
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 1150
+        width: 920
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037009c983d0b44e0800000000000000
+      internalID: -1996487473012668624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_46
+      rect:
+        serializedVersion: 2
+        x: 4730
+        y: 1150
+        width: 1020
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50073355d9d61550800000000000000
+      internalID: 6131327452958883931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_47
+      rect:
+        serializedVersion: 2
+        x: 5750
+        y: 1150
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d063fc1d2e37700800000000000000
+      internalID: 537022171339689294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_48
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 1150
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab11a09e11cc6f50800000000000000
+      internalID: 6876083068107561897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ac1335c2d8cafb0800000000000000
+      internalID: -4635174694957233612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_50
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 0
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02333f1adef35c9f0800000000000000
+      internalID: -448882297996627168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_51
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 0
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779666a51977cda10800000000000000
+      internalID: 1935553406033095031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_52
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 0
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a50b46310f054070800000000000000
+      internalID: 8089888803521234340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EPod_LiveEnding_53
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 0
+        width: 1150
+        height: 1150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cbb45c452a83830800000000000000
+      internalID: 4051166349790788694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
